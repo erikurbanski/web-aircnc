@@ -4,10 +4,11 @@
 
 ## Ajustar Emmet no VsCode:
 
-"emmet.syntaxProfiles": { "javascript": "jsx", }, <br>
-"emmet.includeLanguages": { "javascript": "javascriptreact", }
+"emmet.syntaxProfiles": { "javascript": "jsx", }, <br />
+"emmet.includeLanguages": { "javascript": "javascriptreact", } <br />
 
 ## Instalar as bibliotecas:
 
-`yarn add axios` <br>
-`yarn add react-router-dom`
+`yarn add axios` <br />
+`yarn add react-router-dom` <br />
+`yarn add socket.io-client`
